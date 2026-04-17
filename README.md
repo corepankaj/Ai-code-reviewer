@@ -21,7 +21,7 @@ An AI-powered Code Reviewer Web App that analyzes your code, suggests improvemen
 ### Frontend
 
 * React.js
-* Axios
+* fetch API 
 * Tailwind CSS / Bootstrap (optional)
 
 ### Backend
